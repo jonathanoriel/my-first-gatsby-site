@@ -27,7 +27,7 @@ module.exports = {
       options: {
         // the only required plugin option for WordPress is the GraphQL url.
         url:
-         `http://localhost/headless-wp/graphql`,
+         `https://myfirstgatsbysitemain89662.gatsbyjs.io/graphql`,
       },
     },
 
